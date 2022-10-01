@@ -5,6 +5,9 @@
 /* Css Import
 ========================================================================== */
 @import url(base.css);
+@import url(login.css);
+@import url(produtos-similares.css);
+@import url(adicionar-produto.css);
 
 /* Estilos Padrão
 ========================================================================== */
