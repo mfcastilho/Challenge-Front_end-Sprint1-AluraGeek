@@ -4,10 +4,10 @@
 
 /* Css Import
 ========================================================================== */
-@import url(estilo_base.css);
+@import url(base.css);
 @import url(login.css);
-@import url(prod-similares.css);
-@import url(add-produto.css);
+@import url(produtos-similares.css);
+@import url(adicionar-produto.css);
 
 /* Estilos Padrão
 ========================================================================== */
